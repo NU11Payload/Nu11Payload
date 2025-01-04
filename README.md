@@ -1,3 +1,5 @@
+# NU11PAYLOAD
+###
 <br clear="both">
 
 <div align="center">
@@ -40,24 +42,5 @@
 
 ###
 
-<h2 align="left">Certified Cybersecurity @</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Nu11payload/Nu11payload/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nu11payload/count.svg?"  />
-</div>
 
 ###
